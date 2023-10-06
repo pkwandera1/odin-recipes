@@ -36,7 +36,7 @@ img {
 }
 h1 {
     color: white;
-    font-size: 72px;
+    font-size: 6vw;
    margin-top: 0%;
    margin-bottom: -20px;
    text-align: center;
@@ -44,7 +44,7 @@ h1 {
 .color {
     color: black;
 }
-ul {
+ul,h2,h3,ol,p {
     padding-left: 25%;
     padding-right: 25%;
 }
